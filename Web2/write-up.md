@@ -5,4 +5,7 @@
 
 Зная это, попытаемся зарегистрировать пользователя с нестандартным именем, дабы вызвать ошибку. Для переноса строки в http-запросе используются символ возврата каретки и символ переноса строки *\r\n.*
 Чтобы получить ошибку, передадим только *\r\n\r* в конце username, так как *\r* без *\n* вызовет ошибку. В ответе сервера передастся флаг.
+![](https://github.com/Jacute/NTO-user18/blob/main/Web2/burp_screenshot.png?raw=true)
+![](https://github.com/Jacute/NTO-user18/blob/main/Web2/flag.png?raw=true)
+
 ##### NTO{request_smuggling_917a34072663f9c8beea3b45e8f129c5}
