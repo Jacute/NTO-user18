@@ -8,4 +8,6 @@
 Это означает, что файлы на системе могут быть подвержены считыванию посредством ***XML Injection.***
 Далее составим вредоносную нагрузку и отправим запрос в *burpsuite*.
 
+![](https://raw.githubusercontent.com/Jacute/NTO-user18/main/Web1/screenshot.png)
+
 ##### nto{w3bs0ck3ts_plu5_xx3_1s_l0v3}
